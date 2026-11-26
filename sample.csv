@@ -1,0 +1,9 @@
+workstation,core,temperature_c
+WS-01,0,94
+WS-01,1,72
+WS-01,2,68
+WS-02,0,55
+WS-02,1,61
+WS-03,0,83
+WS-03,1,49
+WS-03,2,hot
